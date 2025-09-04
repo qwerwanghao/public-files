@@ -1,3 +1,5 @@
 filename,version,relative_path,branch_url,tag,commit_sha,commit_url,qr_image,notes 
 
-pregnancy_first_trimester_prep_v1.0.0.pdf,1.0.0,files/pregnancy_first_trimester_prep_v1.0.0.pdf,https://cdn.jsdelivr.net/gh/qwerwanghao/public-files/files/pregnancy_first_trimester_prep_v1.0.0.pdf,v1.0.0,,,manifest/qr/pregnancy_first_trimester_prep_v1.0.0.png,首发版本；如需在微信中保存而非在线预览可追加ZIP版本
+pregnancy_first_trimester_prep_v1.0.0.pdf,1.0.0,files/pregnancy_first_trimester_prep_v1.0.0.pdf,https://cdn.jsdelivr.net/gh/qwerwanghao/public-files/files/pregnancy_first_trimester_prep_v1.0.0.pdf,v1.0.0,396f3c315989492711243ae41477b0705d691011,https://cdn.jsdelivr.net/gh/qwerwanghao/public-files@396f3c315989492711243ae41477b0705d691011/files/pregnancy_first_trimester_prep_v1.0.0.pdf,manifest/qr/pregnancy_first_trimester_prep_v1.0.0.png,首发版本；如需在微信中保存而非在线预览可追加ZIP版本
+
+program_book_bride_preparation_v1.0.1.pdf,1.0.1,files/program_book_bride_preparation_v1.0.1.pdf,https://cdn.jsdelivr.net/gh/qwerwanghao/public-files/files/program_book_bride_preparation_v1.0.1.pdf,v1.0.1,1983b4337bdb710b56d98c11e89f04b2684f5d36,https://cdn.jsdelivr.net/gh/qwerwanghao/public-files@1983b4337bdb710b56d98c11e89f04b2684f5d36/files/program_book_bride_preparation_v1.0.1.pdf,manifest/qr/program_book_bride_preparation_v1.0.1.png,正式版本
